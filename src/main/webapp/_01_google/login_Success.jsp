@@ -16,8 +16,8 @@ familyName=	${familyName}<br>
 givenName=	${givenName}<br>
 Email=	${Email}<br>
 pictureUrl=	${pictureUrl}<br>
-
-
+<img src="${pictureUrl}">
+<h3>[USER PICTURE] download on D:\getdata\googleicon.jpg</h3>
 
 <hr>
 <hr>
